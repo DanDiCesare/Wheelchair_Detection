@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>w29.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\w29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>822</width>
+		<height>756</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wheelchair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>24</ymin>
+			<xmax>698</xmax>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+</annotation>

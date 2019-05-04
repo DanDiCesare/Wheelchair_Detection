@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>wheelchair.gif</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\wheelchair.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>916</width>
+		<height>1019</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wheelchair</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>29</ymin>
+			<xmax>916</xmax>
+			<ymax>997</ymax>
+		</bndbox>
+	</object>
+</annotation>

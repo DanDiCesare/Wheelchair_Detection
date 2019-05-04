@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>wheelchair-1629490_960_720.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\wheelchair-1629490_960_720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>673</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wheelchair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>202</ymin>
+			<xmax>615</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+</annotation>
